@@ -4,7 +4,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     **Name**: Jan; **Age**: < 25; **Location**: Germany      | Senior Developer at [@LSS-Manager](https://github.com/LSS-Manager/) |                       Web-Development                        |
 ### favourite People
-[@KokosnussDEV](https://github.com/KokosnussDEV) ❤️
+[@kdev](https://github.com/kdev) ❤️
 
 ## coding
 ### favourite languages
