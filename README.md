@@ -21,3 +21,4 @@
 ### stats
 | ![User Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxn-30&theme=moonlight) | ![User Commit-Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jxn-30&theme=moonlight&utcOffset=2) |
 |:-----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jxn-30&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=jxn-30&theme=darkhub&column=4)|
